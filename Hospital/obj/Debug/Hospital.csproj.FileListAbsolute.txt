@@ -1,0 +1,11 @@
+D:\RUPP\C#\Hospital\Hospital\bin\Debug\Hospital.exe.config
+D:\RUPP\C#\Hospital\Hospital\bin\Debug\Hospital.exe
+D:\RUPP\C#\Hospital\Hospital\bin\Debug\Hospital.pdb
+D:\RUPP\C#\Hospital\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+D:\RUPP\C#\Hospital\Hospital\obj\Debug\Hospital.csproj.SuggestedBindingRedirects.cache
+D:\RUPP\C#\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
+D:\RUPP\C#\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+D:\RUPP\C#\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+D:\RUPP\C#\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+D:\RUPP\C#\Hospital\Hospital\obj\Debug\Hospital.exe
+D:\RUPP\C#\Hospital\Hospital\obj\Debug\Hospital.pdb
